@@ -1,0 +1,108 @@
+
+
+body{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+
+}
+.quti{
+    width: 700px;
+    border: 1px solid black;
+    width: 750px;
+    height: 550px;
+    background-color: rgb(36, 33, 33);
+    box-shadow: 5px 5px 5px 5px rgb(255, 102, 0);
+    justify-content: center;
+    align-items: center;
+    margin:80px 350px 20px;
+}
+.quti .asosiy .img{
+    width: 150px;
+    height: 150px;
+    border: 2px solid rgb(255, 102, 0);
+    border-radius: 50%;
+    margin-top: 10px;
+}
+/*Lato*/
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+.quti .asosiy .h2{
+    font-family: "Dancing Script", cursive;
+    margin-top: 10px;
+    color: white;
+    font-size: 10px;
+}
+/*Bebas Neue*/
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script:wght@400..700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+.quti .asosiy .p1{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 40px;
+    color: rgb(255, 102, 0);
+}
+/* Grey go*/
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script:wght@400..700&family=Grey+Qo&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+.quti .asosiy .p2{
+    font-family: "Grey Qo", cursive;
+  font-size: 10px;
+    text-align: center;
+    color: white;
+    width: 600px;
+    margin: 10px 0px 0px 70px;
+    line-height: 15px;
+
+}
+
+/*Bebas neue*/
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script:wght@400..700&family=Grey+Qo&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+.quti .asosiy .p4{
+font-family: "Bebas Neue", sans-serif;
+color: white;
+margin-top: 10px;
+}
+.quti .icons{
+    justify-content: center;
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+    height: 450px;
+    
+}
+.quti .icons .icon{
+    width: 150px;
+    height: 150px;
+    border: 5px solid rgb(255, 102, 0);
+    padding: 5px;
+    background-color: white;
+   border-radius: 10px;
+}
+
+.quti .icons .fa-house{
+    font-size: 50px;
+    margin-top: 10px;
+     color: rgb(255, 102, 0);
+    
+}
+.quti .icons .fa-star{
+    font-size: 50px;
+    margin-top: 10px;
+     color: rgb(255, 102, 0);
+}
+.quti .icons .fa-image{
+    font-size: 50px;
+    margin-top: 10px;
+     color: rgb(255, 102, 0);
+}
+.quti .icons .fa-heart{
+    font-size: 50px;
+    margin-top: 10px;
+     color: rgb(255, 102, 0);
+}
+.quti .icons .p3{
+    margin-top: 20px;
+}
+.quti .icons a{
+    margin-top: 40px;
+    color: rgb(255, 102, 0);
+}
+
